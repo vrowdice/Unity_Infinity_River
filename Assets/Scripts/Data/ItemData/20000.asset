@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5178dc39117f1644d9129e411e0467f1, type: 3}
+  m_Name: 20000
+  m_EditorClassIdentifier: 
+  m_code: 20000
+  m_name: Branch
+  m_itemType: 1
+  m_viewObj: {fileID: 3720648674001761274, guid: f6f444120fd233148b15fd269a69405d, type: 3}
+  m_sampleSprite: {fileID: 21300000, guid: 9f277451e46ea1548a51b29e9a00758b, type: 3}
+  m_needMatCode: 0
+  m_needMatAmount: 0
